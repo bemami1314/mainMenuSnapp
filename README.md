@@ -1,8 +1,8 @@
-##📱 Snapp UI – Jetpack Compose Version
+📱 Snapp UI – Jetpack Compose Version
 This project is a sample user interface inspired by the Snapp application, fully implemented using Jetpack Compose.
 The goal is to practice modern Android UI design, reusable components, vertical and horizontal scrolling, and clean layout management with Compose.
 
-##🚀 Features
+🚀 Features
 Full UI built with Jetpack Compose
 
 Vertical scrolling for the main screen
@@ -26,7 +26,7 @@ Material 3
 
 Android Studio
 
-##📂 Project Structure
+📂 Project Structure
 scss
 Copy code
 MainActivity.kt
@@ -36,7 +36,7 @@ BannerItem()
 FruitItems()
 BottomItem()
 CreatorItem()
-##▶️ How to Run
+▶️ How to Run
 Clone the project:
 
 bash
