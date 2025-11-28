@@ -1,49 +1,55 @@
-📱 Snapp UI – Jetpack Compose Version
-This project is a sample user interface inspired by the Snapp application, fully implemented using Jetpack Compose.
-The goal is to practice modern Android UI design, reusable components, vertical and horizontal scrolling, and clean layout management with Compose.
+# 📱 Snapp UI Clone (Jetpack Compose)
 
-🚀 Features
-Full UI built with Jetpack Compose
+A clean and modern UI inspired by the **Snapp** application, built entirely with **Jetpack Compose**.  
+This project focuses on practicing layout structures, reusable components, and modern Material 3 design patterns.
 
-Vertical scrolling for the main screen
+---
 
-Horizontal scrolling for product items
+## ✨ Features
 
-Custom banner component
+- Fully built using **Jetpack Compose**
+- Vertical scroll for the main screen
+- Horizontal scroll for product items
+- Custom banner component
+- Custom bottom bar
+- Reusable components (CreatorItem, BannerItem, FruitItems, etc.)
+- Material 3 UI elements
 
-Custom bottom navigation section
+---
 
-Reusable UI components (CreatorItem, BannerItem, FruitItems, etc.)
+## 🛠 Tech Stack
 
-Uses Material 3 design system
+- **Kotlin**
+- **Jetpack Compose**
+- **Material 3**
+- **Android Studio**
 
-##🛠 Technologies Used
-Kotlin
+---
 
-Jetpack Compose
+## 📂 Project Structure
 
-Material 3
-
-Android Studio
-
-📂 Project Structure
-scss
-Copy code
 MainActivity.kt
 SnappUI()
-TopItems()
-BannerItem()
-FruitItems()
-BottomItem()
-CreatorItem()
-▶️ How to Run
-Clone the project:
+├── TopItems()
+├── BannerItem()
+├── FruitItems()
+├── BottomItem()
+└── CreatorItem()
 
-bash
+yaml
 Copy code
+
+---
+
+## ▶️ Run the Project
+
+1. Clone the repository:
+
+```bash
 git clone https://github.com/bemami1314/mainMenuSnapp.git
+
 Open the project in Android Studio
 
-Wait for Gradle Sync to complete
+Wait for Gradle Sync
 
-Run the app on an emulator or physical device
+Run on emulator or a physical device
